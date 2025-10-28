@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CopilotDiffPersistence">
+    <option name="pendingDiffs">
+      <map>
+        <entry key="$PROJECT_DIR$/test/test_Programs_1.py">
+          <value>
+            <PendingDiffInfo>
+              <option name="filePath" value="$PROJECT_DIR$/test/test_Programs_1.py" />
+              <option name="originalContent" value="# ======================== sum of all numbers in the List #=========&#10;&#10;numbers = [70,20, 40, 80, 90]           # list&#10;finalSum = 0&#10;&#10;for j in numbers:&#10;    finalSum = finalSum + j&#10;    Total = str(finalSum)&#10;&#10;print(&quot;Sum of all numbers: &quot; + Total)&#10;&#10;# ======================== print Even &amp; Odd numbers in the List #=========&#10;print(&quot;=========================================&quot;)&#10;evenList = []&#10;oddList = []&#10;for x in range(0, 20):&#10;    if x % 2 == 0:&#10;        evenList.append(x)&#10;    else:&#10;        oddList.append(x)&#10;&#10;print(&quot;Even List: &quot; + str(evenList))&#10;print(&quot;Odd List: &quot; + str(oddList))&#10;&#10;# ======================== print values in the List #=========&#10;&#10;try:&#10;    print(&quot;=========================================&quot;)&#10;    l1 = [&quot;pankaj&quot;, &quot;priya&quot;, &quot;keerat&quot;]&#10;    l2 = [&quot;qa&quot;, &quot;dev&quot;, &quot;manager&quot;]&#10;&#10;    for a in l1:&#10;        for b in l2:&#10;            print(a + &quot; &quot; + b)&#10;&#10;    # ======================== #=========&#10;    print(&quot;=========================================&quot;)&#10;&#10;except ValueError:&#10;    print(&quot;Value Error occurred&quot;)" />
+              <option name="updatedContent" value="# ======================== sum of all numbers in the List #=========&#10;&#10;numbers = [70,20, 40, 80, 90]           # list&#10;finalSum = 0&#10;&#10;for j in numbers:&#10;    finalSum = finalSum + j&#10;    Total = str(finalSum)&#10;&#10;print(&quot;Sum of all numbers: &quot; + Total)&#10;&#10;# ======================== print Even &amp; Odd numbers in the List #=========&#10;print(&quot;=========================================&quot;)&#10;evenList = []&#10;oddList = []&#10;for x in range(0, 20):&#10;    if x % 2 == 0:&#10;        evenList.append(x)&#10;    else:&#10;        oddList.append(x)&#10;&#10;print(&quot;Even List: &quot; + str(evenList))&#10;print(&quot;Odd List: &quot; + str(oddList))&#10;&#10;# ======================== print values in the List #=========&#10;&#10;try:&#10;    print(&quot;=========================================&quot;)&#10;    l1 = [&quot;pankaj&quot;, &quot;priya&quot;, &quot;keerat&quot;]&#10;    l2 = [&quot;qa&quot;, &quot;dev&quot;, &quot;manager&quot;]&#10;&#10;    for a in l1:&#10;        for b in l2:&#10;            print(a + &quot; &quot; + b)&#10;&#10;    # ======================== #=========&#10;    print(&quot;=========================================&quot;)&#10;&#10;except ValueError:&#10;    print(&quot;Value Error occurred&quot;)" />
+            </PendingDiffInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
